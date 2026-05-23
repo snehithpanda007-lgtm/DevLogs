@@ -53,3 +53,11 @@ Built:
             add task
             remove task
             mark complete
+
+# Day 6 progress
+Learned:
+    deployment basics
+    repository organization
+    README writing
+Deployed:
+    Todo Website using Vercel
