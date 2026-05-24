@@ -61,3 +61,11 @@ Learned:
     README writing
 Deployed:
     Todo Website using Vercel
+
+# Day 7 progress
+Polished and Pinned Projects
+    Improved:
+        spacing
+        colors
+        responsiveness
+        buttons
