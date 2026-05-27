@@ -19,3 +19,13 @@ Built:
     shopping list app
     random name picker
     number guessing game
+
+# Day 10 progress
+Learned:
+  objects
+Built:
+  Student Profile System
+    Features:
+      student cards
+      marks display
+      dynamic rendering
