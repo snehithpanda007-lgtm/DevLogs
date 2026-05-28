@@ -29,3 +29,16 @@ Built:
       student cards
       marks display
       dynamic rendering
+
+# Day 11 progress
+Learned:
+  querySelector
+  createElement
+  innerHTML
+  addEventListener
+Built:
+  Advanced Todo App
+    Features:
+      add task
+      delete task
+      complete task
