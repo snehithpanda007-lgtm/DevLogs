@@ -42,3 +42,16 @@ Built:
       add task
       delete task
       complete task
+
+# Day 12 progress
+Learned:
+  forms
+  inputs
+  validation
+  preventing page reloads
+Built:
+  Expense Tracker
+    Features:
+      add expense
+      category
+      total calculator
