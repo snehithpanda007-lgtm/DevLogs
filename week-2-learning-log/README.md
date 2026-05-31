@@ -63,3 +63,13 @@ Built:
       start timer
       pause timer
       reset timer
+
+# Day 14 progress
+Built:
+  Calculator
+    Features:
+      takes input via ui buttons
+      evaluates expressions
+Polished projects
+  improved ui
+  added images to README.md
