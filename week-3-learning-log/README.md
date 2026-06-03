@@ -11,3 +11,17 @@ Built:
         users
         posts
         comments
+
+# Day 16 progress
+Learned:
+  Promise
+  async
+  await
+  try/catch
+Built:
+  User Dashboard
+    Features:
+      fetch users
+      display cards
+      loading message
+      error message
