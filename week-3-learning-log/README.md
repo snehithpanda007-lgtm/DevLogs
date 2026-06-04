@@ -25,3 +25,12 @@ Built:
       display cards
       loading message
       error message
+
+# Day 17 progress
+Weather Dashboard
+  Features:
+    search city
+    current weather
+    temperature
+    humidity
+    weather icon
