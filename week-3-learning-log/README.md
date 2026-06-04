@@ -27,10 +27,24 @@ Built:
       error message
 
 # Day 17 progress
-Weather Dashboard
-  Features:
-    search city
-    current weather
-    temperature
-    humidity
-    weather icon
+Built:
+  Weather Dashboard
+    Features:
+      search city
+      current weather
+      temperature
+      humidity
+      weather icon
+
+# Day 18 progress
+Learned:
+  variables
+  functions
+  loops
+  lists
+  dictionaries
+Built:
+  Mini Python Programs
+    Expense calculator
+    Student grade calculator
+    Password generator
