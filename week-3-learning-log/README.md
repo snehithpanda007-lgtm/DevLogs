@@ -48,3 +48,11 @@ Built:
     Expense calculator
     Student grade calculator
     Password generator
+
+# Day 19 progress
+Built:
+  File Organizer
+    Features:
+      scan folder
+      move files by type
+      generate summary
