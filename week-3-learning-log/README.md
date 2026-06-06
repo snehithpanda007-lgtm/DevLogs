@@ -56,3 +56,12 @@ Built:
       scan folder
       move files by type
       generate summary
+
+# Day 20 progress
+Built:
+  Movie Explorer
+    Features:
+      search movies
+      posters
+      ratings
+      descriptions
