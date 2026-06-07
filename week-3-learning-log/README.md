@@ -65,3 +65,19 @@ Built:
       posters
       ratings
       descriptions
+
+# Day 21 progress
+Cleaned GitHub repositories:
+  Added to README.md
+    features
+    technologies used
+    screenshots
+    setup instructions
+Deployed:
+  Weather App
+  Movie Explorer
+Updated Portfolio:
+  Added:
+    Weather App
+    Movie Explorer
+    Python Automation Script
