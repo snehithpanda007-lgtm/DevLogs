@@ -12,3 +12,12 @@ Added Sections:
 Improved Sections:
   Projects
   Contact Me
+
+# Day 24 progress
+Updated Portfolio Website to V1:
+  Added:
+    Toggle Theme
+    Filter Projects Option
+    Project Screenshots
+    Project Live demo
+    Improved Overall UI/UX
