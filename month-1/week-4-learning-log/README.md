@@ -21,3 +21,12 @@ Updated Portfolio Website to V1:
     Project Screenshots
     Project Live demo
     Improved Overall UI/UX
+
+# Day 25 progress
+Built:
+  Habit Tracker
+    Features:
+      Add Habits
+      Delete Habits
+      Weekly Report
+      Save Option
