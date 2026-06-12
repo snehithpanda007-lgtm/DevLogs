@@ -30,3 +30,10 @@ Built:
       Delete Habits
       Weekly Report
       Save Option
+
+# Day 26 progress
+Built:
+  Quote Generator
+   Features:
+    Generate one quote at a time
+    Gray and aqua UI
