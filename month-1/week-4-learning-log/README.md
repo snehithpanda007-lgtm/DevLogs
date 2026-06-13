@@ -37,3 +37,11 @@ Built:
    Features:
     Generate one quote at a time
     Gray and aqua UI
+
+# Day 27 progress
+Built:
+  Quiz App
+    Features:
+      MCQs
+      Score
+      Gray and Aqua UI
