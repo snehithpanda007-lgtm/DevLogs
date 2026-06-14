@@ -45,3 +45,12 @@ Built:
       MCQs
       Score
       Gray and Aqua UI
+
+# Day 28 progress
+Updated GitHub profile:
+  Added README
+  Pinned Projects
+Updated LinkedIn profile:
+  Headline Section
+  About Section
+  Featured Section
