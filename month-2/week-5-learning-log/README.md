@@ -10,3 +10,10 @@ Built:
     Hero
     TaskSection
     Footer
+
+# Day 30 progress
+Learnt:
+  Props
+Built:
+  Created components:
+   TaskCard
