@@ -17,3 +17,11 @@ Learnt:
 Built:
   Created components:
    TaskCard
+
+# Day 31 progress
+Learnt:
+  useState
+Built:
+  Added:
+    task creation
+    task completion
