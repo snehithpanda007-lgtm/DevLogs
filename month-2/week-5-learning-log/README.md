@@ -25,3 +25,14 @@ Built:
   Added:
     task creation
     task completion
+
+# Day 32 progress
+Learnt:
+  button click
+  form submit
+  input changes
+Built:
+  Features:
+    add task
+    delete task
+    complete task
