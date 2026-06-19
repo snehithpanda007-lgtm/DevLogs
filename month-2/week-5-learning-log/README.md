@@ -36,3 +36,10 @@ Built:
     add task
     delete task
     complete task
+
+# Day 33 progress
+Learnt:
+  map() 
+Built
+  Added:
+    Categories
