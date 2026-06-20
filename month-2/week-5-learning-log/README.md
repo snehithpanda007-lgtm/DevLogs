@@ -43,3 +43,10 @@ Learnt:
 Built
   Added:
     Categories
+
+# Day 34 progress
+Learnt:
+  Browser local storage basics
+Built:
+  Local storage for tasks
+  
