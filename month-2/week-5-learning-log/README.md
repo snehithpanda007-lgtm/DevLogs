@@ -50,3 +50,14 @@ Learnt:
 Built:
   Local storage for tasks
   
+# Day 35 progress
+Improved:
+  student-productivity-hub
+    UI
+    README
+Deployed:
+  student-productivity-hub
+Updated:
+  Portfolio
+    Added project card
+      student-productivity-hub
