@@ -21,3 +21,12 @@ Built:
       sidebar
       active page highlight
       responsive navigation
+# Day 38 progress
+Learnt:
+  Layouts
+Built:
+  Global Layout
+    Contains:
+      navigation
+      branding
+      footer
