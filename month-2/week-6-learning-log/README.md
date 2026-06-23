@@ -12,3 +12,12 @@ Built:
   ├── tasks
   ├── notes
   └── settings
+# Day 37 progress
+Learnt:
+File-Based Routing
+Built:
+  Navigation menu
+    Features:
+      sidebar
+      active page highlight
+      responsive navigation
