@@ -39,3 +39,10 @@ Built:
       Notes Created
       Productivity Score
     Recent Activity Section
+# Day 40 progress
+Built:
+  Responsive Tasks Section:
+    add task
+    delete task
+    complete task
+    filter task
