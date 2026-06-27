@@ -46,3 +46,9 @@ Built:
     delete task
     complete task
     filter task
+# Day 41 progress
+Built:
+  Responsive Notes Section:
+    create notes
+    edit notes
+    delete notes
