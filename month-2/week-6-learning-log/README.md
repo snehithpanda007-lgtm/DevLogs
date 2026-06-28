@@ -52,3 +52,12 @@ Built:
     create notes
     edit notes
     delete notes
+# Day 42 progress
+Improved:
+  Tasks Section UI
+  Notes Section UI
+Deployed:
+  Student Productivity Hub V2
+Updated Portfolio
+  Added:
+    Student Productivity Hub V2
