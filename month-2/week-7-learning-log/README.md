@@ -13,3 +13,12 @@ Built:
         completed
         created_at
         user_id
+# Day 44 progress
+Built:
+  Implemented Authentication:
+    Sign up
+    Login
+    Logout
+  Pages:
+    /login
+    /signup
