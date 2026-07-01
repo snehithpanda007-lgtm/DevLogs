@@ -22,3 +22,10 @@ Built:
   Pages:
     /login
     /signup
+# Day 45 progress
+Built:
+  Tasks now:
+    Save to database
+    Load from database
+    Update
+    Delete
