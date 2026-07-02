@@ -29,3 +29,17 @@ Built:
     Load from database
     Update
     Delete
+# Day 46 progress
+Created
+  Notes Table
+    Fields:
+      id
+      title
+      content
+      created_at
+      user_id
+Built:
+  Features:
+    Create note
+    Edit note
+    Delete note
