@@ -43,3 +43,12 @@ Built:
     Create note
     Edit note
     Delete note
+# Day 47 progress
+Built:
+  Features:
+    Welcome message
+    Completed tasks
+    Pending tasks
+    Total notes
+    Productivity
+    Recent activity
