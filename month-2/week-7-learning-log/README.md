@@ -52,3 +52,13 @@ Built:
     Total notes
     Productivity
     Recent activity
+# Day 48 progress
+Learnt:
+  Row-Level Security (RLS)
+  Protecting routes
+  Environment variables
+  Error handling
+Built:
+  Ensured:
+    Users cannot access each other's data.
+    Redirect unauthenticated users to /login.
