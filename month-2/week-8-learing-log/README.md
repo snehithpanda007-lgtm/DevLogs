@@ -4,3 +4,8 @@ Improved UI:
     Typography
     Spacing
     Theme
+# Day 56 progress
+Added Feature:
+  Searching for:
+    Notes
+    Tasks
