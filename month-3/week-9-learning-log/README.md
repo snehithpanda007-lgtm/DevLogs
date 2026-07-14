@@ -7,3 +7,12 @@ Learnt:
 Built:
   Created a Next.js project:
     ai-chat-assistant
+# Day 58 progress
+Built:
+  Components:
+    Navbar
+    Chat Window
+    Message Bubble
+    Input Box
+    Send Button
+    Loading Indicator
