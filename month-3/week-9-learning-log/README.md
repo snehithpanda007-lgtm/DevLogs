@@ -16,3 +16,13 @@ Built:
     Input Box
     Send Button
     Loading Indicator
+# Day 59 progress
+Learnt:
+  Streaming
+  Incremental rendering
+  Loading states
+Built:
+  Implemented:
+    Streaming responses
+    Typing indicator
+    Disable send button while generating
