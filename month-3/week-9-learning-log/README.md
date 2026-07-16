@@ -26,3 +26,8 @@ Built:
     Streaming responses
     Typing indicator
     Disable send button while generating
+# Day 60 progress
+Built:
+  Implemented:
+    Local chat storage 
+    New chat button
