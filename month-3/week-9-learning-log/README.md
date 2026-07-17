@@ -31,3 +31,11 @@ Built:
   Implemented:
     Local chat storage 
     New chat button
+# Day 61 progress
+Polished the Experience:
+  Added:
+    Copy response button
+    Auto-scroll
+    Markdown rendering
+    Better loading state
+    Empty conversation screen
