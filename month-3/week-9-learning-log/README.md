@@ -39,3 +39,9 @@ Polished the Experience:
     Markdown rendering
     Better loading state
     Empty conversation screen
+# Day 62 progress
+AI Chat Assistant project:
+  Deployed:
+    Using Vercel
+  Added:
+    README
