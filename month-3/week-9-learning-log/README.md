@@ -45,3 +45,7 @@ AI Chat Assistant project:
     Using Vercel
   Added:
     README
+# Day 63 progress
+Added:
+  To Portfolio:
+    AI Chat Assistant project
